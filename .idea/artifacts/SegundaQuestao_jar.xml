@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SegundaQuestao:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SegundaQuestao_jar</output-path>
+    <root id="archive" name="projeto-Ada-Java.jar">
+      <element id="module-output" name="projeto-Ada-Java" />
+    </root>
+  </artifact>
+</component>
